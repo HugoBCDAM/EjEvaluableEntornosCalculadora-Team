@@ -13,10 +13,6 @@ public class Calculadora {
 		return a * b;
 	}
 	
-	public double dividir(double a, double b) {
-		return a / b;
-	}
-	
 	public static void main(String[] args) {
 		Calculadora calc = new Calculadora();
 		System.out.println("--- INICIO DE LA CALCULADORA ---");
